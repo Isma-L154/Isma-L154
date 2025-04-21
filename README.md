@@ -1,16 +1,50 @@
-### Hi there 👋
-
-# 💫 About Me:
-🌱 I’m currently learning new technologies🌱 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Russo+One&size=32&duration=3000&pause=1000&color=FCE205&center=true&vCenter=true&width=600&lines=+Welcome+To+My+Profile!)
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leon_isma1504) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Isma_1504) 
+<table style="width: 100%; border: none; text-align: center;">
+  <tr>
+    <td colspan="2" style="text-align: center;">
+      <h1>💫 About Me</h1>
+    </td>
+  </tr>
+  <tr>
+    <td style="width: 40%; text-align: center;">
+      <img src="assets/Banner.png">
+    </td>
+    <td style="width: 60%; padding-left: 20px;">
+      <p>
+        I am a Systems Engineering student passionate about the IT world. I love helping and solving problems through meaningful tech solutions. I'm always open to exciting projects, especially those related to technology and software development. Right now, I'm focused on deepening my knowledge in some frameworks and expanding my skills in cloud-based architectures.
+      </p>
+      <p>
+        Beyond tech, I enjoy gaming 🎮, staying active at the gym 🏋️‍♂️, and exploring computer hardware 🧠💻. These interests keep me inspired, curious, and always eager to learn new things in both life and tech.
+      </p>
+    </td>
+  </tr>
+</table>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=flat&logo=Thymeleaf&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
+## 💻 Tech Stack
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Isma-L154&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+##
+
+| <div style="background:blue"><h1>🌐 Socials</h1><br/>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ismaelleon)</div> | <br/>![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight) |
+| :--------- | :--------- |
+
+
+
+
+
+
