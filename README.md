@@ -13,10 +13,11 @@
     </td>
     <td style="width: 60%; padding-left: 20px;">
       <p>
-        I am a Computer Engineer student passionate about the IT world. I love helping and solving problems through meaningful tech solutions. I'm always open to exciting projects, especially those related to technology and software development. Right now, I'm focused on deepening my knowledge in some frameworks and expanding my skills in cloud-based architectures.
-      </p>
-      <p>
-        Beyond tech, I enjoy gaming 🎮, staying active at the gym 🏋️‍♂️, and exploring computer hardware 🧠💻. These interests keep me inspired, curious, and always eager to learn new things in both life and tech.
+        DevOps Engineer passionate about automation, cloud technologies, and building systems that are reliable, scalable, and easy to maintain.
+
+I enjoy solving complex problems, improving development workflows, and designing infrastructure that helps teams move faster and more confidently. My interests include cloud-native technologies, Infrastructure as Code, CI/CD, containers, Kubernetes, observability, and software development.
+
+I'm always learning, experimenting with new tools, and looking for opportunities to grow as an engineer while contributing to impactful projects.
       </p>
     </td>
   </tr>
