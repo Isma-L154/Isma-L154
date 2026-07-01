@@ -13,7 +13,7 @@
     </td>
     <td style="width: 60%; padding-left: 20px;">
       <p>
-        DevOps Engineer passionate about automation, cloud technologies, and building systems that are reliable, scalable, and easy to maintain.
+        Computer Engineer passionate about automation, cloud technologies, and building systems that are reliable, scalable, and easy to maintain.
 
 I enjoy solving complex problems, improving development workflows, and designing infrastructure that helps teams move faster and more confidently. My interests include cloud-native technologies, Infrastructure as Code, CI/CD, containers, Kubernetes, observability, and software development.
 
