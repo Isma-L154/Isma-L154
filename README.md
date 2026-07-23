@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<b>🧑‍💻 Languages</b>
+<img src="https://img.shields.io/badge/%24-LANGUAGES-21262D?style=for-the-badge&labelColor=39D353" alt="Languages" />
 <br/><br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="46" alt="C#" />
 &nbsp;&nbsp;
@@ -57,7 +57,7 @@
 
 <br/><br/>
 
-<b>☁️ Cloud</b>
+<img src="https://img.shields.io/badge/%24-CLOUD-21262D?style=for-the-badge&labelColor=39D353" alt="Cloud" />
 <br/><br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="46" alt="Azure" />
 &nbsp;&nbsp;
@@ -67,7 +67,7 @@
 
 <br/><br/>
 
-<b>⚙️ DevOps &amp; Tools</b>
+<img src="https://img.shields.io/badge/%24-DEVOPS%20%26%20TOOLS-21262D?style=for-the-badge&labelColor=39D353" alt="DevOps and Tools" />
 <br/><br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="46" alt="Docker" />
 &nbsp;&nbsp;
@@ -81,15 +81,15 @@
 
 <br/><br/>
 
-<b>🗄️ Databases</b>
+<img src="https://img.shields.io/badge/%24-DATABASES-21262D?style=for-the-badge&labelColor=39D353" alt="Databases" />
 <br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="46" alt="SQL Server" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="46" alt="Oracle" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="46" alt="MySQL" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="46" alt="SQLite" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge" alt="SQL Server" />
+&nbsp;
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge" alt="Oracle" />
+&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+&nbsp;
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 
 </div>
 
