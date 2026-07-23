@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3200&pause=900&color=39D353&center=true&vCenter=true&width=720&height=70&lines=Welcome+to+my+profile!;DevOps+%26+Cloud+Engineer;Automation+%7C+IaC+%7C+CI%2FCD;Reliable%2C+scalable%2C+maintainable" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3200&pause=900&color=39D353&center=true&vCenter=true&width=720&height=70&lines=Welcome+to+my+profile!;DevOps+Engineer;Automation+%7C+IaC+%7C+CI%2FCD;Reliable%2C+scalable%2C+maintainable" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://www.linkedin.com/in/ismaelleon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://ismaelleon.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-39D353?style=for-the-badge&logo=firefoxbrowser&logoColor=0D1117" alt="Portfolio" /></a>
+<a href="https://ismaelleon.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-45C9D1?style=for-the-badge&logo=firefoxbrowser&logoColor=0D1117" alt="Portfolio" /></a>
 <a href="https://x.com/Isma_1504"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://www.instagram.com/leon_isma1504/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
@@ -23,11 +23,11 @@
 <table>
   <tr>
     <td width="42%" align="center">
-      <img src="assets/banner.svg" width="380" alt="Ismael León — DevOps &amp; Cloud Engineer" />
+      <img src="assets/banner.svg" width="380" alt="Ismael León — DevOps Engineer" />
     </td>
     <td width="58%">
       <p>
-        <b>Computer Engineer</b> passionate about <b>automation</b>, <b>cloud technologies</b>,
+        <b>DevOps Engineer</b> passionate about <b>automation</b>, <b>cloud technologies</b>,
         and building systems that are reliable, scalable, and easy to maintain.
       </p>
       <p>
@@ -40,9 +40,6 @@
         I'm always learning, experimenting with new tools, and looking for opportunities to grow
         as an engineer while contributing to impactful projects.
       </p>
-      <p>
-        📍 San José, Costa Rica &nbsp;·&nbsp; 🌱 Currently deepening my DevOps &amp; Cloud skills
-      </p>
     </td>
   </tr>
 </table>
@@ -53,74 +50,58 @@
 
 <div align="center">
 
-<b>🧑‍💻 Languages</b>
-<br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="46" alt="C#" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="46" alt="Java" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="46" alt="Python" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="46" alt="JavaScript" />
-
-<br/><br/>
-
-<b>☁️ Cloud</b>
-<br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="46" alt="Azure" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="46" alt="AWS" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="46" alt="Google Cloud" />
-
-<br/><br/>
-
-<b>⚙️ DevOps &amp; Tools</b>
-<br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="46" alt="Docker" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="46" alt="GitHub Actions" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="46" alt="Git" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="46" alt="Linux" />
-
-<br/><br/>
-
-<b>🗄️ Databases</b>
-<br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="46" alt="SQL Server" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="46" alt="Oracle" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="46" alt="MySQL" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="46" alt="SQLite" />
+<table>
+  <tr>
+    <td align="right"><b>🧑‍💻&nbsp;Languages&nbsp;&nbsp;</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="34" alt="C#" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34" alt="Java" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="Python" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>☁️&nbsp;Cloud&nbsp;&nbsp;</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="34" alt="Azure" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="34" alt="AWS" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="34" alt="Google Cloud" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>⚙️&nbsp;DevOps&nbsp;&nbsp;</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34" alt="Docker" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="34" alt="GitHub Actions" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="Git" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="34" alt="Linux" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>🗄️&nbsp;Databases&nbsp;&nbsp;</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="34" alt="SQL Server" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="34" alt="Oracle" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34" alt="MySQL" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="34" alt="SQLite" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Portfolio
 
 <div align="center">
-
-### 🖥️ Terminal Portfolio
 
 An interactive portfolio built as a real terminal — animated boot sequence,<br/>
 ASCII banner, ghost autocomplete and swappable color themes. Type `help` and explore.
 
 <br/>
 
-<a href="https://ismaelleon.netlify.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-39D353?style=for-the-badge&logoColor=0D1117" alt="Live Demo" /></a>
-<a href="https://github.com/Isma-L154/Portfolio-Terminal"><img src="https://img.shields.io/badge/Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
+<a href="https://ismaelleon.netlify.app/"><img src="https://img.shields.io/badge/Visit_Portfolio-45C9D1?style=for-the-badge&logo=firefoxbrowser&logoColor=0D1117" alt="Visit Portfolio" /></a>
 
 </div>
 
@@ -154,16 +135,7 @@ ASCII banner, ghost autocomplete and swappable color themes. Type `help` and exp
 
 ---
 
-## 🌐 Connect With Me
-
 <div align="center">
-
-<a href="https://www.linkedin.com/in/ismaelleon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://x.com/Isma_1504"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://www.instagram.com/leon_isma1504/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="mailto:ismaleonsaenz@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<br/><br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 

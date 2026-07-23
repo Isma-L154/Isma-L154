@@ -45,18 +45,18 @@
   </g>
   <g opacity="1">
     <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.44;0.60" dur="3.6s" fill="freeze"/>
-    <text x="26" y="184" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="16" font-weight="bold" fill="#39D353">DevOps &amp; Cloud Engineer</text>
+    <text x="26" y="184" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="17" font-weight="bold" fill="#39D353">DevOps Engineer</text>
   </g>
 
   <!-- line 3 -->
   <g opacity="1">
     <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.60;0.76" dur="3.6s" fill="freeze"/>
     <text x="26" y="228" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="14" fill="#39D353">$</text>
-    <text x="44" y="228" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="14" fill="#8B939E">locate me</text>
+    <text x="44" y="228" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="14" fill="#8B939E">cat focus.txt</text>
   </g>
   <g opacity="1">
     <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.70;0.86" dur="3.6s" fill="freeze"/>
-    <text x="26" y="256" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="14" fill="#B6BCC4">San Jos&#233;, Costa Rica</text>
+    <text x="26" y="256" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace" font-size="14" fill="#B6BCC4">Automation &#183; IaC &#183; CI/CD</text>
   </g>
 
   <!-- prompt + blinking cursor -->
