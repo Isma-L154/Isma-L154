@@ -5,14 +5,9 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/ismaelleon"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://ismaelleon.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-45C9D1?style=for-the-badge&logo=firefoxbrowser&logoColor=0D1117" alt="Portfolio" /></a>
+<a href="https://ismaelleon.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-39D353?style=for-the-badge&logo=firefoxbrowser&logoColor=0D1117" alt="Portfolio" /></a>
 <a href="https://x.com/Isma_1504"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://www.instagram.com/leon_isma1504/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Isma-L154&label=Profile%20views&color=39d353&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Isma-L154?label=Followers&style=flat-square&color=39d353&labelColor=0D1117" alt="Followers" />
 
 </div>
 
@@ -50,58 +45,51 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="right"><b>🧑‍💻&nbsp;Languages&nbsp;&nbsp;</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="34" alt="C#" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34" alt="Java" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="Python" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>☁️&nbsp;Cloud&nbsp;&nbsp;</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="34" alt="Azure" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="34" alt="AWS" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="34" alt="Google Cloud" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>⚙️&nbsp;DevOps&nbsp;&nbsp;</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34" alt="Docker" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="34" alt="GitHub Actions" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="Git" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="34" alt="Linux" />
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>🗄️&nbsp;Databases&nbsp;&nbsp;</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="34" alt="SQL Server" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="34" alt="Oracle" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34" alt="MySQL" />&nbsp;&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="34" alt="SQLite" />
-    </td>
-  </tr>
-</table>
+<b>🧑‍💻 Languages</b>
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="46" alt="C#" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="46" alt="Java" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="46" alt="Python" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="46" alt="JavaScript" />
 
-</div>
+<br/><br/>
 
----
+<b>☁️ Cloud</b>
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="46" alt="Azure" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="46" alt="AWS" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="46" alt="Google Cloud" />
 
-## 🚀 Portfolio
+<br/><br/>
 
-<div align="center">
+<b>⚙️ DevOps &amp; Tools</b>
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="46" alt="Docker" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="46" alt="Jenkins" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="46" alt="Terraform" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="46" alt="Git" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="46" alt="Linux" />
 
-An interactive portfolio built as a real terminal — animated boot sequence,<br/>
-ASCII banner, ghost autocomplete and swappable color themes. Type `help` and explore.
+<br/><br/>
 
-<br/>
-
-<a href="https://ismaelleon.netlify.app/"><img src="https://img.shields.io/badge/Visit_Portfolio-45C9D1?style=for-the-badge&logo=firefoxbrowser&logoColor=0D1117" alt="Visit Portfolio" /></a>
+<b>🗄️ Databases</b>
+<br/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="46" alt="SQL Server" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="46" alt="Oracle" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="46" alt="MySQL" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="46" alt="SQLite" />
 
 </div>
 
