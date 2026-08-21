@@ -27,19 +27,19 @@
   <text x="80" y="22.5" font-family="&apos;JetBrains Mono&apos;,&apos;DejaVu Sans Mono&apos;,monospace" font-size="11" fill="#5A616C" letter-spacing="1">~/activity</text>
   <text x="22" y="62" font-family="&apos;JetBrains Mono&apos;,&apos;DejaVu Sans Mono&apos;,monospace" font-size="13" font-weight="bold" fill="#39D353" text-anchor="start">$</text>
   <text x="38" y="62" font-family="&apos;JetBrains Mono&apos;,&apos;DejaVu Sans Mono&apos;,monospace" font-size="13" font-weight="normal" fill="#8B939E" text-anchor="start">activity --last 30d</text>
-  <text x="918" y="62" font-family="&apos;JetBrains Mono&apos;,&apos;DejaVu Sans Mono&apos;,monospace" font-size="12" font-weight="normal" fill="#8B939E" text-anchor="end">193 contributions</text>
+  <text x="918" y="62" font-family="&apos;JetBrains Mono&apos;,&apos;DejaVu Sans Mono&apos;,monospace" font-size="12" font-weight="normal" fill="#8B939E" text-anchor="end">196 contributions</text>
   <line x1="54" y1="202.0" x2="912" y2="202.0" stroke="#1B2027" stroke-width="1"/>
   <text x="42" y="206" font-family="&apos;JetBrains Mono&apos;,&apos;DejaVu Sans Mono&apos;,monospace" font-size="10" font-weight="normal" fill="#5A616C" text-anchor="end">0</text>
   <line x1="54" y1="142.0" x2="912" y2="142.0" stroke="#1B2027" stroke-width="1"/>
   <text x="42" y="146" font-family="&apos;JetBrains Mono&apos;,&apos;DejaVu Sans Mono&apos;,monospace" font-size="10" font-weight="normal" fill="#5A616C" text-anchor="end">18</text>
   <line x1="54" y1="82.0" x2="912" y2="82.0" stroke="#1B2027" stroke-width="1"/>
   <text x="42" y="86" font-family="&apos;JetBrains Mono&apos;,&apos;DejaVu Sans Mono&apos;,monospace" font-size="10" font-weight="normal" fill="#5A616C" text-anchor="end">35</text>
-  <path d="M54.0,167.7 L83.6,119.7 L113.2,184.9 L142.8,202.0 L172.3,202.0 L201.9,202.0 L231.5,181.4 L261.1,181.4 L290.7,202.0 L320.3,174.6 L349.9,202.0 L379.4,202.0 L409.0,198.6 L438.6,202.0 L468.2,202.0 L497.8,202.0 L527.4,202.0 L557.0,202.0 L586.6,202.0 L616.1,195.1 L645.7,136.9 L675.3,188.3 L704.9,167.7 L734.5,147.1 L764.1,202.0 L793.7,164.3 L823.2,160.9 L852.8,130.0 L882.4,82.0 L912.0,191.7 L912.0,202 L54,202 Z" fill="url(#area)"/>
-  <path d="M54.0,167.7 L83.6,119.7 L113.2,184.9 L142.8,202.0 L172.3,202.0 L201.9,202.0 L231.5,181.4 L261.1,181.4 L290.7,202.0 L320.3,174.6 L349.9,202.0 L379.4,202.0 L409.0,198.6 L438.6,202.0 L468.2,202.0 L497.8,202.0 L527.4,202.0 L557.0,202.0 L586.6,202.0 L616.1,195.1 L645.7,136.9 L675.3,188.3 L704.9,167.7 L734.5,147.1 L764.1,202.0 L793.7,164.3 L823.2,160.9 L852.8,130.0 L882.4,82.0 L912.0,191.7" fill="none" stroke="#39D353" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M54.0,167.7 L83.6,123.1 L113.2,184.9 L142.8,198.6 L172.3,202.0 L201.9,202.0 L231.5,181.4 L261.1,181.4 L290.7,202.0 L320.3,174.6 L349.9,202.0 L379.4,202.0 L409.0,198.6 L438.6,202.0 L468.2,202.0 L497.8,202.0 L527.4,202.0 L557.0,202.0 L586.6,202.0 L616.1,195.1 L645.7,136.9 L675.3,188.3 L704.9,167.7 L734.5,147.1 L764.1,202.0 L793.7,164.3 L823.2,160.9 L852.8,130.0 L882.4,82.0 L912.0,181.4 L912.0,202 L54,202 Z" fill="url(#area)"/>
+  <path d="M54.0,167.7 L83.6,123.1 L113.2,184.9 L142.8,198.6 L172.3,202.0 L201.9,202.0 L231.5,181.4 L261.1,181.4 L290.7,202.0 L320.3,174.6 L349.9,202.0 L379.4,202.0 L409.0,198.6 L438.6,202.0 L468.2,202.0 L497.8,202.0 L527.4,202.0 L557.0,202.0 L586.6,202.0 L616.1,195.1 L645.7,136.9 L675.3,188.3 L704.9,167.7 L734.5,147.1 L764.1,202.0 L793.7,164.3 L823.2,160.9 L852.8,130.0 L882.4,82.0 L912.0,181.4" fill="none" stroke="#39D353" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
   <circle cx="54.0" cy="167.7" r="2.5" fill="#39D353"/>
-  <circle cx="83.6" cy="119.7" r="2.5" fill="#39D353"/>
+  <circle cx="83.6" cy="123.1" r="2.5" fill="#39D353"/>
   <circle cx="113.2" cy="184.9" r="2.5" fill="#39D353"/>
-  <circle cx="142.8" cy="202.0" r="2.5" fill="#39D353"/>
+  <circle cx="142.8" cy="198.6" r="2.5" fill="#39D353"/>
   <circle cx="172.3" cy="202.0" r="2.5" fill="#39D353"/>
   <circle cx="201.9" cy="202.0" r="2.5" fill="#39D353"/>
   <circle cx="231.5" cy="181.4" r="2.5" fill="#39D353"/>
@@ -65,7 +65,7 @@
   <circle cx="823.2" cy="160.9" r="2.5" fill="#39D353"/>
   <circle cx="852.8" cy="130.0" r="2.5" fill="#39D353"/>
   <circle cx="882.4" cy="82.0" r="2.5" fill="#39D353"/>
-  <circle cx="912.0" cy="191.7" r="2.5" fill="#39D353"/>
+  <circle cx="912.0" cy="181.4" r="2.5" fill="#39D353"/>
   <text x="54" y="224" font-family="&apos;JetBrains Mono&apos;,&apos;DejaVu Sans Mono&apos;,monospace" font-size="10" font-weight="normal" fill="#5A616C" text-anchor="middle">Jul 23</text>
   <text x="201.9310344827586" y="224" font-family="&apos;JetBrains Mono&apos;,&apos;DejaVu Sans Mono&apos;,monospace" font-size="10" font-weight="normal" fill="#5A616C" text-anchor="middle">Jul 28</text>
   <text x="349.8620689655172" y="224" font-family="&apos;JetBrains Mono&apos;,&apos;DejaVu Sans Mono&apos;,monospace" font-size="10" font-weight="normal" fill="#5A616C" text-anchor="middle">Aug 2</text>
