@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3200&pause=900&color=39D353&center=true&vCenter=true&width=720&height=70&lines=Welcome+to+my+profile!;DevOps+Engineer;Automation+%7C+IaC+%7C+CI%2FCD;Reliable%2C+scalable%2C+maintainable" alt="Typing SVG" />
+<img src="assets/typing.svg" width="760" alt="Welcome to my profile - DevOps Engineer - Automation | IaC | CI/CD" />
 
 <br/>
 
@@ -99,25 +99,16 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Isma-L154&theme=github_dark" alt="Profile Details" />
+<!-- Cards below are generated daily by .github/workflows/update-stats.yml (see scripts/generate-stats.mjs)
+     and served straight from this repo, so they are never rate limited. -->
 
-<br/>
+<img width="49%" src="assets/stats.svg" alt="GitHub stats" />
+<img width="49%" src="assets/streak.svg" alt="Contribution streak" />
 
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Isma-L154&theme=github_dark" alt="Repos per Language" />
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Isma-L154&theme=github_dark" alt="Most Commit Language" />
+<img width="49%" src="assets/languages.svg" alt="Top languages" />
+<img width="49%" src="assets/habits.svg" alt="Contributions by weekday" />
 
-<br/>
-
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Isma-L154&theme=github_dark" alt="Stats" />
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Isma-L154&theme=github_dark&utcOffset=-6" alt="Productive Time" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Isma-L154&hide_border=true&background=0D1117&stroke=30363D&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Isma-L154&bg_color=0D1117&color=C9D1D9&line=39D353&point=FFFFFF&area=true&area_color=39D353&hide_border=true" alt="Activity Graph" />
+<img width="100%" src="assets/activity.svg" alt="Contribution activity over the last 30 days" />
 
 </div>
 
@@ -125,7 +116,7 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+<img width="100%" src="assets/quote.svg" alt="Dev quote" />
 
 <br/><br/>
 
