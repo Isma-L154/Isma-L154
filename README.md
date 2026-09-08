@@ -117,8 +117,6 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Isma-L154&bg_color=0D1117&color=C9D1D9&line=39D353&point=FFFFFF&area=true&area_color=39D353&hide_border=true" alt="Activity Graph" />
-
 </div>
 
 ---
