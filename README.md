@@ -8,6 +8,7 @@
 <a href="https://cloudils.com/"><img src="https://img.shields.io/badge/Portfolio-39D353?style=for-the-badge&logo=firefoxbrowser&logoColor=0D1117" alt="Portfolio" /></a>
 <a href="https://x.com/Isma_1504"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://www.instagram.com/leon_isma1504/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://github.com/sponsors/Isma-L154"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" /></a>
 
 </div>
 
