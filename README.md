@@ -48,49 +48,49 @@
 
 <img src="https://img.shields.io/badge/%24-LANGUAGES-21262D?style=for-the-badge&labelColor=39D353" alt="Languages" />
 <br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="46" alt="C#" />
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/csharp/csharp-original.svg" height="46" alt="C#" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="46" alt="Java" />
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/java/java-original.svg" height="46" alt="Java" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="46" alt="Python" />
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/python/python-original.svg" height="46" alt="Python" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="46" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/javascript/javascript-original.svg" height="46" alt="JavaScript" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/%24-CLOUD-21262D?style=for-the-badge&labelColor=39D353" alt="Cloud" />
 <br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="46" alt="Azure" />
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/azure/azure-original.svg" height="46" alt="Azure" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="46" alt="AWS" />
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/amazonwebservices/amazonwebservices-plain.svg" height="46" alt="AWS" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="46" alt="Google Cloud" />
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/googlecloud/googlecloud-original.svg" height="46" alt="Google Cloud" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/%24-DEVOPS%20%26%20TOOLS-21262D?style=for-the-badge&labelColor=39D353" alt="DevOps and Tools" />
 <br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="46" alt="Docker" />
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/docker/docker-original.svg" height="46" alt="Docker" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="46" alt="Jenkins" />
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/jenkins/jenkins-original.svg" height="46" alt="Jenkins" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="46" alt="Terraform" />
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/terraform/terraform-original.svg" height="46" alt="Terraform" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="46" alt="Git" />
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/git/git-original.svg" height="46" alt="Git" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="46" alt="Linux" />
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/linux/linux-original.svg" height="46" alt="Linux" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/%24-DATABASES-21262D?style=for-the-badge&labelColor=39D353" alt="Databases" />
 <br/><br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="46" alt="SQL Server" />
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="46" alt="SQL Server" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="46" alt="Oracle" />
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/oracle/oracle-original.svg" height="46" alt="Oracle" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="46" alt="MySQL" />
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/mysql/mysql-original.svg" height="46" alt="MySQL" />
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="46" alt="PostgreSQL" />
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/postgresql/postgresql-original.svg" height="46" alt="PostgreSQL" />
 
 </div>
 
